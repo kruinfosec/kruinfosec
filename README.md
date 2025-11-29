@@ -75,7 +75,7 @@
       <td><img src="https://profile-stats-theme.vercel.app/api/top-langs?username=kruinfosec&layout=compact&card_width=320&theme=nightowl" alt="languages graph" /></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-streak-stats-ten-psi-90.vercel.app?user=kruinfosec&theme=nightowl&hide_border=true" alt="streak graph" /></td>
+      <td colspan="2" align="center"><img src="https://github-readme-streak-stats-ten-psi-90.vercel.app?user=kruinfosec&theme=whatsapp-dark2&hide_border=true" alt="streak graph" /></td>
     </tr>
   </table>
 </div>
