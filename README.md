@@ -14,12 +14,26 @@
 
 ---
 
+### 🚀 About Me
 I am an aspiring Cybersecurity Specialist and a B.Tech Computer Science student with a passion for threat detection, automation, and ethical hacking. I enjoy building efficient, secure systems and am always eager to learn through hands-on projects.
 
-### 🔭 I’m currently working on:
-- **[Scythe](https://github.com/kruinfosec/Scythe):** An AI-powered, unified security testing terminal to streamline pentesting workflows.
+- 🔭 I’m currently building **[Scythe](https://github.com/kruinfosec/Scythe)**, an AI-powered security testing terminal.
+- 🌱 I’m diving deep into **Penetration Testing, Web Application Security, and Reverse Engineering**.
+- 🎯 Goal: To contribute to open-source security tools and build a career in threat analysis.
 
-### 💻 Tech Stack & Skills
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.rickstaa.vercel.app/api?username=kruinfosec&show_icons=true&count_private=true&theme=radical" alt="Kanishk's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kruinfosec&theme=radical&hide_border=true" alt="Kanishk's GitHub Streak" />
+  <img src="https://github-readme-stats.rickstaa.vercel.app/api/top-langs/?username=kruinfosec&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔧 Tech Stack & Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -30,11 +44,19 @@ I am an aspiring Cybersecurity Specialist and a B.Tech Computer Science student 
   <img src="https://img.shields.io/badge/Penetration_Testing-black?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Pentesting"/>
 </p>
 
-### 📊 My GitHub Stats
+---
 
+### 🚀 Featured Projects
+
+- **Scythe:** An AI-powered, unified security testing terminal for pentesters and analysts.
+- **Security_Auditor:** A system security auditing software that uses script-based plugins to audit an OS's security.
+- **Custom SIEM System:** A system for real-time monitoring, detection, and response using the Elastic Stack.
+
+---
+
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.rickstaa.vercel.app/api?username=kruinfosec&show_icons=true&theme=radical&rank_icon=github" alt="Kanishk's GitHub Stats"/>
-  <img src="https://github-readme-stats.rickstaa.vercel.app/api/top-langs/?username=kruinfosec&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kruinfosec&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
