@@ -9,15 +9,17 @@
 ---
 
 ### 👩‍💻 About Me
+<img align="right" src="assets/brand_mascot.png" alt="Brand Mascot" width="200"/>
 <p align="left">
   🛡️ An aspiring Cybersecurity Specialist and B.Tech Computer Science student with a passion for threat detection, automation, and ethical hacking.
   <br><br>
   🛡️ I enjoy building efficient, secure systems and am always eager to learn through hands-on projects.
   <br><br>
-  🛡️ Currently building **[Scythe](https://github.com/kruinfosec/Scythe)**, an AI-powered security testing terminal.
+  🛡️ Currently building [**Scythe**](https://scythe-web.vercel.app/), an AI-powered security testing terminal.
   <br><br>
   🛡️ Diving deep into **Penetration Testing, Web Application Security, and Reverse Engineering**.
 </p>
+<br clear="both"/>
 
 ---
 
@@ -25,6 +27,12 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/kruinfosec/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@KRU.Infosec" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/kru.infosec/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://kruinfosec.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
@@ -65,6 +73,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kruinfosec&theme=dracula&hide_border=true" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.rickstaa.vercel.app/api/top-langs?username=kruinfosec&layout=compact&card_width=320&theme=dracula" height="150" alt="languages graph"  />
 </div>
+
+---
+
+<h2 align="center">✍️ Latest Blog Posts</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
