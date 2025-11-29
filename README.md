@@ -69,9 +69,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.rickstaa.vercel.app/api?username=kruinfosec&show_icons=true&count_private=true&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kruinfosec&theme=dracula&hide_border=true" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.rickstaa.vercel.app/api/top-langs?username=kruinfosec&layout=compact&card_width=320&theme=dracula" height="150" alt="languages graph"  />
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td><img src="https://github-readme-stats.rickstaa.vercel.app/api?username=kruinfosec&show_icons=true&count_private=true&theme=dracula" alt="stats graph" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=kruinfosec&theme=dracula&hide_border=true" alt="streak graph" /></td>
+      <td><img src="https://github-readme-stats.rickstaa.vercel.app/api/top-langs?username=kruinfosec&layout=compact&card_width=320&theme=dracula" alt="languages graph" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -86,7 +90,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kruinfosec&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kruinfosec&theme=dracula&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
