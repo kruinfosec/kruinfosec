@@ -1,62 +1,75 @@
-# Hi, I'm Kanishk Rai 👋
+<div align="center">
+  <img src="assets/brand_mascot.png" alt="Brand Mascot" width="150"/>
+</div>
 
+<h1 align="center">Hi 👋, I'm Kanishk Rai</h1>
+<h3 align="center">Aspiring Cybersecurity Specialist</h3>
+
+---
+
+### 👩‍💻 About Me
 <p align="left">
+  🛡️ An aspiring Cybersecurity Specialist and B.Tech Computer Science student with a passion for threat detection, automation, and ethical hacking.
+  <br><br>
+  🛡️ I enjoy building efficient, secure systems and am always eager to learn through hands-on projects.
+  <br><br>
+  🛡️ Currently building **[Scythe](https://github.com/kruinfosec/Scythe)**, an AI-powered security testing terminal.
+  <br><br>
+  🛡️ Diving deep into **Penetration Testing, Web Application Security, and Reverse Engineering**.
+</p>
+
+---
+
+<h2 align="center">🛠 Tech Stack & Tools</h2>
+<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+---
+
+<h2 align="center">🔗 Connect with Me</h2>
+<br>
+<div align="center">
   <a href="https://www.linkedin.com/in/kruinfosec/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://kruinfosec.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
-   <a href="mailto:kanishkrai@kruinfosec.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:kanishkrai@kruinfosec.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
   </a>
-</p>
+</div>
 
 ---
 
-### 🚀 About Me
-I am an aspiring Cybersecurity Specialist and a B.Tech Computer Science student with a passion for threat detection, automation, and ethical hacking. I enjoy building efficient, secure systems and am always eager to learn through hands-on projects.
-
-- 🔭 I’m currently building **[Scythe](https://github.com/kruinfosec/Scythe)**, an AI-powered security testing terminal.
-- 🌱 I’m diving deep into **Penetration Testing, Web Application Security, and Reverse Engineering**.
-- 🎯 Goal: To contribute to open-source security tools and build a career in threat analysis.
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.rickstaa.vercel.app/api?username=kruinfosec&show_icons=true&count_private=true&theme=radical" alt="Kanishk's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kruinfosec&theme=radical&hide_border=true" alt="Kanishk's GitHub Streak" />
-  <img src="https://github-readme-stats.rickstaa.vercel.app/api/top-langs/?username=kruinfosec&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.rickstaa.vercel.app/api?username=kruinfosec&show_icons=true&count_private=true&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kruinfosec&theme=dracula&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.rickstaa.vercel.app/api/top-langs?username=kruinfosec&layout=compact&card_width=320&theme=dracula" height="150" alt="languages graph"  />
+</div>
 
 ---
 
-### 🔧 Tech Stack & Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Penetration_Testing-black?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Pentesting"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- **Scythe:** An AI-powered, unified security testing terminal for pentesters and analysts.
-- **Security_Auditor:** A system security auditing software that uses script-based plugins to audit an OS's security.
-- **Custom SIEM System:** A system for real-time monitoring, detection, and response using the Elastic Stack.
-
----
-
-### 📈 Contribution Graph
-<p align="center">
+<h2 align="center">📈 Contribution Graph</h2>
+<br>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kruinfosec&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
+</div>
 
 ---
