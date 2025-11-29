@@ -71,9 +71,9 @@
 <div align="center">
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td><img src="https://github-readme-stats.rickstaa.vercel.app/api?username=kruinfosec&show_icons=true&count_private=true&theme=hacker" alt="stats graph" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=kruinfosec&theme=hacker&hide_border=true" alt="streak graph" /></td>
-      <td><img src="https://github-readme-stats.rickstaa.vercel.app/api/top-langs?username=kruinfosec&layout=compact&card_width=320&theme=hacker" alt="languages graph" /></td>
+      <td><img src="https://github-readme-stats.rickstaa.vercel.app/api?username=kruinfosec&show_icons=true&count_private=true&theme=aura" alt="stats graph" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=kruinfosec&theme=aura&hide_border=true" alt="streak graph" /></td>
+      <td><img src="https://github-readme-stats.rickstaa.vercel.app/api/top-langs?username=kruinfosec&layout=compact&card_width=320&theme=aura" alt="languages graph" /></td>
     </tr>
   </table>
 </div>
@@ -90,7 +90,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kruinfosec&theme=hacker&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kruinfosec&theme=aura&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
