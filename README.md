@@ -90,7 +90,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kruinfosec&theme=aura&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kruinfosec&theme=dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
