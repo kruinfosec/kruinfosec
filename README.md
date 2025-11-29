@@ -15,7 +15,7 @@
   <br><br>
   🛡️ I enjoy building efficient, secure systems and am always eager to learn through hands-on projects.
   <br><br>
-  🛡️ Currently building <a href="https://scythe-web.vercel.app/"><strong>Scythe</strong></a>, an AI-powered security testing terminal.
+  🛡️ Currently building <a href="https://scythe-web.vercel.app/"><strong>Scythe</strong></a>, an AI-powered Cyber Security WorkBench.
   <br><br>
   🛡️ Diving deep into **Penetration Testing, Web Application Security, and Reverse Engineering**.
 </p>
