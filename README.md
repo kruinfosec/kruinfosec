@@ -71,11 +71,11 @@
 <div align="center">
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td><img src="https://profile-stats-theme.vercel.app/api?username=kruinfosec&show_icons=true&count_private=true&bg_color=0D1117&title_color=FFD700&icon_color=7DF9FF&text_color=25D9D9" alt="stats graph" /></td>
-      <td><img src="https://profile-stats-theme.vercel.app/api/top-langs?username=kruinfosec&layout=compact&card_width=320&bg_color=0D1117&title_color=FFD700&icon_color=7DF9FF&text_color=25D9D9" alt="languages graph" /></td>
+      <td><img src="https://profile-stats-theme.vercel.app/api?username=kruinfosec&show_icons=true&count_private=true&theme=nightowl" alt="stats graph" /></td>
+      <td><img src="https://profile-stats-theme.vercel.app/api/top-langs?username=kruinfosec&layout=compact&card_width=320&theme=nightowl" alt="languages graph" /></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=kruinfosec&hide_border=true&background=0D1117&ring=FFD700&fire=7DF9FF&currStreakNum=FFD700&sideNums=25D9D9&sideLabels=25D9D9" alt="streak graph" /></td>
+      <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=kruinfosec&theme=nightowl&hide_border=true" alt="streak graph" /></td>
     </tr>
   </table>
 </div>
