@@ -1,4 +1,28 @@
 <div align="center">
+  <img src="assets/banner.jpg" alt="Profile Banner" width="1200"/>
+</div>
+<br>
+
+<h1 align="center">Hi 👋, I'm Kanishk Rai</h1>
+<h3 align="center">Aspiring Cybersecurity Specialist</h3>
+
+---
+
+### 👩‍💻 About Me
+<p align="left">
+  🛡️ An aspiring Cybersecurity Specialist and B.Tech Computer Science student with a passion for threat detection, automation, and ethical hacking.
+  <br><br>
+  🛡️ I enjoy building efficient, secure systems and am always eager to learn through hands-on projects.
+  <br><br>
+  🛡️ Currently building **[Scythe](https://github.com/kruinfosec/Scythe)**, an AI-powered security testing terminal.
+  <br><br>
+  🛡️ Diving deep into **Penetration Testing, Web Application Security, and Reverse Engineering**.
+</p>
+
+---
+
+<h2 align="center">🔗 Connect with Me</h2>
+<div align="center">
   <a href="https://www.linkedin.com/in/kruinfosec/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -11,25 +35,6 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=kruinfosec&style=for-the-badge" alt="profile views"/>
 </div>
-
-<h1 align="center">Hi 👋, I'm Kanishk Rai</h1>
-<h3 align="center">Aspiring Cybersecurity Specialist</h3>
-
----
-
-### 👩‍💻 About Me
-<img align="right" src="assets/brand_mascot.png" alt="Brand Mascot" width="200"/>
-<p align="left">
-  🛡️ An aspiring Cybersecurity Specialist and B.Tech Computer Science student with a passion for threat detection, automation, and ethical hacking.
-  <br><br>
-  🛡️ I enjoy building efficient, secure systems and am always eager to learn through hands-on projects.
-  <br><br>
-  🛡️ Currently building **[Scythe](https://github.com/kruinfosec/Scythe)**, an AI-powered security testing terminal.
-  <br><br>
-  🛡️ Diving deep into **Penetration Testing, Web Application Security, and Reverse Engineering**.
-</p>
-
-<br clear="both"/>
 
 ---
 
