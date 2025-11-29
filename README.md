@@ -3,7 +3,7 @@
 </div>
 <br>
 
-<h1 align="center">Hi 👋, I'm Kanishk Rai</h1>
+<h1 align="center">Hey... , I'm Kanishk Rai</h1>
 <h3 align="center">Aspiring Cybersecurity Specialist</h3>
 
 ---
