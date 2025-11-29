@@ -78,8 +78,7 @@
 
 <h2 align="center">✍️ Latest Blog Posts</h2>
 <ul>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href="https://medium.com/@kru.infosec254/scythe-an-ai-powered-cybersecurity-workbench-616d00f7461c?source=rss-52b3aef0b1b8------2">Scythe: An AI-Powered CyberSecurity Workbench</a></li><!-- BLOG-POST-LIST:END -->
 </ul>
 
 ---
