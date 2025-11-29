@@ -72,7 +72,7 @@
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td><img src="https://profile-stats-theme.vercel.app/api?username=kruinfosec&show_icons=true&count_private=true&theme=blue-green" alt="stats graph" /></td>
-      <td><img src="https://profile-stats-theme.vercel.app/api/top-langs?username=kruinfosec&layout=compact&card_width=320&theme=prussian" alt="languages graph" /></td>
+      <td><img src="https://profile-stats-theme.vercel.app/api/top-langs?username=kruinfosec&layout=compact&card_width=320&theme=shadow_green" alt="languages graph" /></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><img src="https://github-readme-streak-stats-ten-psi-90.vercel.app?user=kruinfosec&theme=whatsapp-dark2&hide_border=true" alt="streak graph" /></td>
