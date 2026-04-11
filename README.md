@@ -17,7 +17,7 @@
   <br><br>
   🛡️ Currently building <a href="https://scythe-web.vercel.app/"><strong>Scythe</strong></a>, an AI-powered Cyber Security WorkBench.
   <br><br>
-  🛡️ Diving deep into **Penetration Testing, Web Application Security, and Reverse Engineering**.
+  🛡️ Diving deep into <strong>Penetration Testing, Web Application Security, and Reverse Engineering</strong>.
 </p>
 <br clear="both"/>
 
