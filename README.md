@@ -11,7 +11,7 @@
 ### 👩‍💻 About Me
 <img align="right" src="assets/brand_mascot.png" alt="Brand Mascot" width="200"/>
 <p align="left">
-  🛡️ An aspiring Cybersecurity Specialist and B.Tech Computer Science student with a passion for threat detection, automation, and ethical hacking.
+  🛡️ A Certified Ethical Hacker (CEHv13) and B.Tech Computer Science student with a passion for threat detection, automation, and ethical hacking.
   <br><br>
   🛡️ I enjoy building efficient, secure systems and am always eager to learn through hands-on projects.
   <br><br>
